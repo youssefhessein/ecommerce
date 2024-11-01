@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "PlayStation 5",
+    "description": "The latest PlayStation 5 with 825GB SSD and stunning graphics.",
+    "price": 100,
+    "old_price": 150,
+    "image": "assets/PlayStation5.png"
+  },
+  {
+    "id": 2,
+    "name": "PlayStation 5",
+    "description": "PlayStation 5 with 1TB HDD, best for classic games.",
+    "price": 200,
+    "old_price": 250,
+    "image": "assets/PlayStation5.1.png"
+  },
+  {
+    "id": 7,
+    "name": "PlayStation 5",
+    "description": "PlayStation 5 with classic library of games.",
+    "price": 200,
+    "old_price": 250,
+    "image": "assets/PlayStation5.2.png"
+  },
+  {
+    "id": 3,
+    "name": "Product 2",
+    "description": "Description of Product 2",
+    "price": 200,
+    "old_price": 250,
+    "image": "assets/Bread Loaf1.png"
+  },
+  {
+    "id": 5,
+    "name": "Product 2",
+    "description": "Description of Product 2",
+    "price": 200,
+    "old_price": 250,
+    "image": "assets/Bread Loaf2.png"
+  },
+  {
+    "id": 4,
+    "name": "Product 2",
+    "description": "Description of Product 2",
+    "price": 200,
+    "old_price": 250,
+    "image": "assets/PULSE 3DWireless Headset.png"
+  },
+  {
+    "id": 6,
+    "name": "Product 2",
+    "description": "Description of Product 2",
+    "price": 200,
+    "old_price": 250,
+    "image": "assets/Media Remote.png"
+  }
+]
